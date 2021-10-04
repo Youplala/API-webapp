@@ -33,6 +33,31 @@ Request must be like:
 }
 ```
 
+## IaaS vs Serverless
+
+### IaaS
+
+#### Pros
+
+- Instantly available
+- Can host any technology
+- Easy to switch cloud providers
+
+
+#### Cons
+- Responsible for maintaining and fixing problems
+- Not cheap
+- Less flexible
+
+### Serverless
+
+#### Pros
+- Only paying for what we use 
+- No infrastructure to manage
+
+#### Cons
+- Focused on API and single functions
+- Not suited for hosting web applications
 
 
 ## API cost estimation

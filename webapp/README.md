@@ -1,4 +1,4 @@
-# Streamlit to Heroku (example)
+# Streamlit to Heroku
 
 ## Setup
 
@@ -8,11 +8,11 @@ Use >= python3.7, after cloning this repository, run this command.
 
 ## Launch app
 
-`streamlit run app.py`# streamlit-example
+`streamlit run app.py`
 
 # Demo link
 
-<https://cloudcomputing-first-course.herokuapp.com/>
+[Web app](https://streamlit-webapp1.herokuapp.com/)
 
 
 Elie Brosset & Julien Assuied
